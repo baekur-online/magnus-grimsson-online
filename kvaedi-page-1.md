@@ -1,7 +1,5 @@
 # Kvæði,
-### sungn við GLEÐILEIK í Reykjavíkur skóla,
-
-<!--<a href="https://baekur-online.github.io/kvaedi/page-1.html>Haustvísur</a>-->
+### sungin við GLEÐILEIK í Reykjavíkur skóla,
 
 ### Höfundur: 
 Magnús Grímsson (fædist 1825 - dó.1860) ; 
@@ -22,7 +20,7 @@ Söngtextar ;
 Sönglög
 
 ### Blaðsíður
-20 blaðsíður
+5 blaðsíður
 
 ### Íslensk Útgáfa á Íslandi: 
 Baekur-Online
@@ -30,3 +28,6 @@ Baekur-Online
 ### Bók er innblastur frá: 
 <a href ="https://baekur.is">https://baekur.is</a><br/>
 <a href="https://baekur.is/bok/d5f0a200-6773-449e-97b9-5937f1df03de/0/4/Kvaedi_sungin_vid_gledileik_i#page/n3/mode/2up">https://baekur.is/bok/d5f0a200-6773-449e-97b9-5937f1df03de/0/4/Kvaedi_sungin_vid_gledileik_i#page/n3/mode/2up</a>
+
+Page 1 of 5\
+[Page 2](https://baekur-online.github.io/magnus-grimsson-online/kvaedi-page-2.html)
