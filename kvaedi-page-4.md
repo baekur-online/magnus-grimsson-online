@@ -27,3 +27,7 @@ saklauss unaðar njótið oss hjá!\
 Ljúfu launað er þa,\
 megi leikheimur sjá\
 ljúma gleðina heyrendum á.
+
+
+Page 4 of 5\
+[Page 5](https://baekur-online.github.io/magnus-grimsson-online/kvaedi-page-5.html)
