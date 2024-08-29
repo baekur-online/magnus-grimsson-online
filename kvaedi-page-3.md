@@ -45,4 +45,4 @@ er hlýðir allt, og þá líka vjer—\
 
 
 Page 3 of 5\
-[Go to page 4 of Kvæði](https://baekur-online.github.io/magnus-grimsson-online/kvaedi-page-3.html)
+[Go to page 4 of Kvæði](https://baekur-online.github.io/magnus-grimsson-online/kvaedi-page-4.html)
