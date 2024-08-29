@@ -42,3 +42,7 @@ birta, að\
 breyting ein er í heiminum hjer,\
 er hlýðir allt, og þá líka vjer—\
 :,: stendur það eitt í stað. :,:
+
+
+Page 3 of 5\
+[Go to page 4 of Kvæði](https://baekur-online.github.io/magnus-grimsson-online/kvaedi-page-3.html)
