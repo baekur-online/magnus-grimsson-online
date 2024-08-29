@@ -53,3 +53,6 @@ Skiljumst heilir! Ósk sú aldrei dvíni\
 — Ísland meðan ber af djúðum sæ —:\
 Frá drottni sjálfum heill og heiður skíni\
 húsi voru, landi' og þessum bæ!
+
+
+Page 5 of 5
