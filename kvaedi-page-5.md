@@ -4,10 +4,10 @@ Sól þó lækki, lengist vetrar nætur,\
 lemji vindar frosti kalda jörð,\
 og vanti ylinn lifna sem að lætur\
 litverp blóm, þá æða veðrin hörð,\
-deyr það sizt, sem allt af vermir ylur,\
+deyr það sízt, sem allt af vermir ylur,\
 árs á tíma hverjum blómgvað sjest;\
 ef till vill, þá úti stormur bylur,\
-innit getur þróazt nærri mest.\
+innit getur þróazt nærri mest.
 
 Því sá alla hiti fær á huga\
 himinborinn, yndis sólu frá,\
@@ -25,23 +25,23 @@ margt er smátt, sem veiklar þrek og dug;\
 en ef harma skúra skýin þjóta,\
 og skyggja' á gleði, verður bezta ráð,\
 yndis stundar einnar þá að njóta,\
-eyða hryggð, að minnsta kost' í bráð.
+eyða hryggð, að minnsta kosti' í bráð.
 
 Sú oss kallað hingað saman hefur\
 hugmynd: Gleðistund er margopt þörf.\
 Allir þreyttir unna því, sem gefur\
-unaðssama hvild við lokin störf;\
+unaðssama hvíld við lokin störf;\
 svo, þá hvíldin aptur er á enda,\
 ánægðir til verka göngum vjer,\
-þau sizt mega' í iðjuleysi lenda,\
-lif veit fyrst af hvíld þá starfað er.
+þau sízt mega' í iðjuleysi lenda,\
+líf veit fyrst af hvíld þá starfað er.
 
-Meðan önnur lönd, sem liður betur,\
+Meðan önnur lönd, sem líður betur,\
 leikhús kóngleg stara hissa á,\
-þetta landið litið meira getur,\
+þetta landið lítið meira getur,\
 en látið rjett í heimahúsi sjá\
 líking þess, sem unað mesta eykur,\
-einkum fylgi list og snili með;\
+einkum fylgi list og snilli með;\
 sýnishorn var þessi litli leikur,\
 sem liðinn er og þjér nú hafið sjeð.
 
@@ -52,7 +52,7 @@ vjer hann reyndum nú að láta' í tje!\
 Skiljumst heilir! Ósk sú aldrei dvíni\
 — Ísland meðan ber af djúðum sæ —:\
 Frá drottni sjálfum heill og heiður skíni\
-húsi voru, landi' og þessum bæ!
+húsi voru, landi' og þessum bæ!\
 
 
 Page 5 of 5
