@@ -6,6 +6,9 @@ Magnús Grímsson (f. 1825 - d.1860) ;
 Steingrímur Thorsteinsson (f. 1831 - d.1913) ; 
 Jón Þorleifsson (f.1825 - 1860)
 
+### Kaupa bók
+[Amazon.com](https://www.amazon.com/dp/B0DFVR8WKG/ref=mp_s_a_1_1?sr=8-1)
+
 ### Dagsetning: 
 20.-22. desemberm. 1849
             
